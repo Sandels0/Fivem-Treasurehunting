@@ -1,4 +1,2 @@
-# Fivem-Treasurehunting
-Fivem treasure hunting by S-scripts
-Discord for updates and if you have any bugs.
-Discord link: https://discord.gg/RKB8dcFHKN
+Simple treasuring script. if you need any help join the S-scripts discord and open ticket.
+Discord link: https://discord.gg/Ze9Bwpk8ZP
